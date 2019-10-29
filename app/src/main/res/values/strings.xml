@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Messenger App</string>
+    <string name="add_task">Add a Task</string>
+    <string name="add">Add</string>
+    <string name="added">Your task has been successfully added</string>
+</resources>
